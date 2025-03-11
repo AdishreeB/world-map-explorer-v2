@@ -92,4 +92,5 @@ After that, follow these steps to run the application.
     ```
 
 3. Open this URL in your web browser to view and interact with the application.
+
 You’re done! You can see the [detailed user manual](https://map.zendalona.com/src/pages/user-guide/index.html) for more information.
