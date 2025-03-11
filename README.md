@@ -62,13 +62,13 @@ Ensure you have the following installed:
 2. Run the following command to clone the repository:
 
     ```bash
-    git clone https://github.com/zendalona/WorldMapExplorer.git
+    git clone https://github.com/zendalona/world-map-explorer-v2.git
     ```
 
 3. Navigate into the project directory:
 
     ```bash
-    cd WorldMapExplorer
+    cd world-map-explorer-v2
     ```
 
 ---
@@ -92,6 +92,4 @@ After that, follow these steps to run the application.
     ```
 
 3. Open this URL in your web browser to view and interact with the application.
-
-
 You’re done! You can see the [detailed user manual](https://map.zendalona.com/src/pages/user-guide/index.html) for more information.
