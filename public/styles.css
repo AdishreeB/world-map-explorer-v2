@@ -405,7 +405,8 @@ header button{
 }
 #messagec,#keysTextc{
   overflow-y: auto;
-  height: 350px;;
+  height: 350px;
+  padding-right: 14px;
 }
 #message button { 
   position: absolute;
